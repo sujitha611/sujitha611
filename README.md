@@ -20,4 +20,4 @@
 ![Sujitha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sujitha611&show_icons=true&theme=tokyonight)
 
 ## 📫 Connect with me
-[![LinkedIn](https://www.linkedin.com/in/jaya-sujitha-576b7a290/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jaya-sujitha-576b7a290/)
