@@ -1,6 +1,6 @@
 # Hi there, I'm Sujitha! 👋
 
-🎓 B.Tech CSE Graduate (2026) — JNTUK  
+🎓 B.Tech CSE Graduate (2026) —  SMCE (JNTUK)  
 💻 Aspiring Python Full Stack Developer  
 📍 Hyderabad, India  
 🌱 Currently learning Python Full Stack Development  
